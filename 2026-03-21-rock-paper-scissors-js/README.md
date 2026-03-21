@@ -4,8 +4,6 @@ This project is a simple **Rock Paper Scissors game** built to strengthen my **J
 
 The main focus is on implementing **game logic, DOM manipulation, and state management using localStorage**.
 
-> Note: I used AI assistance to improve the **UI/CSS styling**, while the core JavaScript logic and functionality were written by me.
-
 ---
 
 ## 🚀 Features
@@ -49,6 +47,10 @@ The main focus is on implementing **game logic, DOM manipulation, and state mana
 * Updating UI dynamically using DOM
 * Using `localStorage` for persistence
 * Structuring a small project cleanly
+
+---
+
+> Note: I used AI assistance to improve the **UI/CSS styling**, while the core JavaScript logic and functionality were written by me.
 
 ---
 
