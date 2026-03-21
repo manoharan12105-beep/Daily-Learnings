@@ -1,19 +1,21 @@
-# ✊✋✌ Rock Paper Scissors (JavaScript Practice)
+# ✊✋✌ Rock Paper Scissors (JavaScript)
 
-This is a simple **Rock Paper Scissors game** built mainly to **practice my JavaScript skills**.
-The focus of this project is on **game logic, DOM manipulation, and localStorage usage**.
+This project is a simple **Rock Paper Scissors game** built to strengthen my **JavaScript fundamentals**.
 
-> Note: I used AI assistance for improving the **CSS/UI styling**, while the core logic and functionality are implemented by me.
+The main focus is on implementing **game logic, DOM manipulation, and state management using localStorage**.
+
+> Note: I used AI assistance to improve the **UI/CSS styling**, while the core JavaScript logic and functionality were written by me.
 
 ---
 
 ## 🚀 Features
 
 * 🎮 Play against the computer
-* 💾 Score persists using **localStorage**
+* 🧠 Random computer move generation
+* 💾 Score persistence using `localStorage`
 * ⚡ Instant result display
-* 🔄 Reset score option
-* 🎨 Clean UI (enhanced with AI support)
+* 🔄 Reset score functionality
+* 🎨 Clean and modern UI
 
 ---
 
@@ -21,34 +23,32 @@ The focus of this project is on **game logic, DOM manipulation, and localStorage
 
 * **HTML** – Structure
 * **CSS** – Styling (with AI assistance)
-* **JavaScript** – Core logic & functionality
+* **JavaScript** – Core logic
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Link
 
-```bash
-RockPaperScissor.html
-```
+👉 [View Project](https://github.com/manoharan12105-beep/Daily-Learnings/tree/main/2026-03-21-rock-paper-scissors-js)
 
 ---
 
 ## 🎯 How It Works
 
 * User selects **Rock, Paper, or Scissors**
-* Computer generates a random choice
-* The result is calculated based on conditions
-* Score updates dynamically and is stored in the browser
+* Computer generates a random choice using `Math.random()`
+* The result is determined using conditional logic
+* Scores update dynamically and are stored in the browser
 
 ---
 
 ## 💡 What I Practiced
 
-* Writing game logic using JavaScript
-* Handling user events (`onclick`)
+* Writing conditional game logic
+* Handling user interactions (`onclick`)
 * Updating UI dynamically using DOM
-* Using `localStorage` to persist data
-* Structuring small projects cleanly
+* Using `localStorage` for persistence
+* Structuring a small project cleanly
 
 ---
 
@@ -61,4 +61,4 @@ RockPaperScissor.html
 
 ## ⭐ Feedback
 
-Feel free to explore and share feedback — always open to learning and improving!
+Feel free to check it out and share feedback — always open to learning and improving.
